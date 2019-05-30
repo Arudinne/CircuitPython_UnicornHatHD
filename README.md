@@ -1,4 +1,4 @@
-# Unicorn-Hat-HD-Arduino
+# CircuitPython_UnicornHatHD
 
 The goal of this library is to allow the Unicorn Hat HD to be controlled as if it were a 16x16 of NeoPixel or DotStar LEDs (or as if were a 256 LED strand).
 
