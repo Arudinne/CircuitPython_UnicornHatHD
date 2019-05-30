@@ -79,7 +79,6 @@ def set_xypixel_color(x,y,r,g,b):
 
 def fill(r,g,b):
     global buffer
-    buffer2 = bytearray(0)
     for i in range(height):
         for j in range(width):
                 buffer[i][j][0] = r
